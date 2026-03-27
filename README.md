@@ -4,7 +4,7 @@ I'm **Theetat Dharmarungruang** (WAI), a Computer Engineering student at KMITL, 
 
 ## About Me 💻
 
-I'm passionate about coding and learning new technologies. I believe in writing clean, efficient code and contributing to open source projects.
+I'm passionate about coding and learning new technologies. I believe in writing clean code and comment for readability.
 
 **Current Goal:** Please let me sleep peacefully 😴
 
