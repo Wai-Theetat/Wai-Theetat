@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 I'm **Theetat Dharmarungruang** (WAI), a Computer Engineering student at KMITL, currently in Year 3. I'm also a cadet in the 42 program.
 
