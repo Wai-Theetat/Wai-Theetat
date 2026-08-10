@@ -6,8 +6,6 @@ I'm **Theetat Dharmarungruang** (WAI), a Computer Engineering student at KMITL, 
 
 I'm passionate about coding and learning new technologies. I believe in writing clean code and comment for readability.
 
-**Current Goal:** Please let me sleep peacefully 😴
-
 ## Tech Stack 🛠️
 
 - **C** • **Python** • **C++** • **C#**
