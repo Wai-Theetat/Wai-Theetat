@@ -16,7 +16,7 @@ I like working close to the system: processes, concurrency, networking, and hard
 | [Philosophers](https://github.com/Wai-Theetat/Philosophers) | Dining philosophers with pthreads and mutexes |
 | [Socket_Programming_Assignment](https://github.com/Wai-Theetat/Socket_Programming_Assignment) | Reliable file transfer over UDP: handshake, sliding window, retransmit |
 | [ToC-Assignment-Back](https://github.com/Wai-Theetat/ToC-Assignment-Back) / [Front](https://github.com/Wai-Theetat/ToC-Assignment-Front) | Bank app with regex data masking (FastAPI + Next.js + PostgreSQL) |
-| [Rust-Practice_discord-bot](https://github.com/Wai-Theetat/Rust-Practice_discord-bot) | Discord bot in Rust with Pollard's rho factorization, Dockerized |
+| [Rust_discord-bot](https://github.com/Wai-Theetat/Rust-Practice_discord-bot) | Discord bot in Rust with Pollard's rho factorization, Dockerized |
 | [Fdf](https://github.com/Wai-Theetat/Fdf) | 3D wireframe renderer in C (MLX42) |
 
 ## 📫 Contact
